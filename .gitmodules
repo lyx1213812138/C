@@ -1,0 +1,6 @@
+[submodule "ChillApp"]
+	path = ChillApp
+	url = https://github.com/lyx1213812138/ChillApp.git
+[submodule "SnapMateBack"]
+	path = SnapMateBack
+	url = https://github.com/Manison502/SnapMateBack.git
