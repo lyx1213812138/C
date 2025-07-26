@@ -4,3 +4,6 @@
 [submodule "SnapMateBack"]
 	path = SnapMateBack
 	url = https://github.com/Manison502/SnapMateBack.git
+[submodule "cheeseHelper"]
+	path = cheeseHelper
+	url = https://github.com/goryJ/cheeseHelper
